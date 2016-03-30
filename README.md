@@ -20,7 +20,8 @@ doxygen ./doxygen/Doxyfile
 Generate HTML will be located in the location specified by the Doxyfile, in this 
 case `./doxygen/documentation/html`.
 
-- If also generating a PDF, an extra step is required:
+- If also generating a PDF, an extra step is required. **this can take a long 
+time, especially on large projects**:
     - On Windows:
 
     ```
