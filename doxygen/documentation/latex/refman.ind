@@ -1,0 +1,25 @@
+\begin{theindex}
+
+  \item {C\+:/\+Users/\+Toby/git/doxygen-\/example/display.\+h}, 
+		\hyperpage{7}
+
+  \indexspace
+
+  \item {Display}, \hyperpage{5}
+    \subitem {display\+Message}, \hyperpage{5}
+    \subitem {G\+O\+O\+D\+B\+Y\+E\+\_\+\+W\+O\+R\+L\+D}, \hyperpage{5}
+    \subitem {H\+E\+L\+L\+O\+\_\+\+W\+O\+R\+L\+D}, \hyperpage{5}
+  \item {display\+Message}
+    \subitem {Display}, \hyperpage{5}
+
+  \indexspace
+
+  \item {G\+O\+O\+D\+B\+Y\+E\+\_\+\+W\+O\+R\+L\+D}
+    \subitem {Display}, \hyperpage{5}
+
+  \indexspace
+
+  \item {H\+E\+L\+L\+O\+\_\+\+W\+O\+R\+L\+D}
+    \subitem {Display}, \hyperpage{5}
+
+\end{theindex}

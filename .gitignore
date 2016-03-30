@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+
+# DEV-C++ files
+*.dev
+*.layout
+
